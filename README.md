@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Tharunn-sai
-- 👀 I’m interested in Machine Learning, Block Chain Technology, Competative Programming
-- 🌱 I’m currently learning Algorithms for Competative Programming and Machine Learning Algorithms
+- 👀 I’m interested in Machine Learning, Block Chain Technology, Competitive Programming
+- 🌱 I’m currently learning Algorithms for Competitive Programming and Machine Learning Algorithms
 - 💞️ I’m looking for an Computer Science Internship
 - 📫 How to reach me,
   - IG    - tharunn.sai
